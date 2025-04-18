@@ -1,5 +1,5 @@
 # Movie-Performance-Analysis-Dashboard
-Introduction
+## Introduction
 
 The project focuses on analyzing the movie industry using interactive Power BI dashboards.
 It explores multiple dimensions including genre, financial performance, and audience engagement.
@@ -14,7 +14,7 @@ Dashboards are segmented into:
 
 The dataset includes key attributes such as movie count, revenue, budget, profit, IMDb ratings, Rotten Tomatoes scores, directors, production companies, release year, language, and MPAA ratings.
 
-Problem Statement
+## Problem Statement
 
 With thousands of movies released globally, stakeholders struggle to understand:
 
@@ -26,9 +26,9 @@ With thousands of movies released globally, stakeholders struggle to understand:
 
 The goal is to enable data-driven decisions for production, marketing, and distribution in the film industry.
 
-Project Summary
+## Project Summary
 
-Genre Analysis
+## Genre Analysis Summary
 
 ● Total of 823 movies across 6 genres.
 
@@ -40,7 +40,7 @@ Genre Analysis
 
 ● Directors such as Taylor Johnson and Riley Brown contributed to a balanced distribution across genres.
 
-Financial Analysis
+## Financial Analysis Summary
 
 ● Total revenue: 209.78K million | Total profit: 124.75K million | Total budget: 85.03K million.
 
@@ -50,7 +50,7 @@ Financial Analysis
 
 ● Director-level analysis reveals top earners like Taylor Johnson and Riley Brown.
 
-Audience Analysis 
+## Audience Analysis Summary
 
 ● Covers 3M theaters across MPAA ratings.
 
@@ -60,7 +60,7 @@ Audience Analysis
 
 ● Audience preferences vary by genre, rating, and language (Mandarin & French scoring slightly higher).
 
-Conclusion
+## Conclusion
 
 ● Comedy, Thriller, and Action are commercially successful genres, but Documentaries receive better critic scores.
 
